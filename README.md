@@ -6,7 +6,7 @@ The repo is a successful reproduction of the example given in the lab instructio
 
 ## Create a test case in the team project 1 repository
 The following test case has been created to check whether a record has been correctly deleted from the events database.      
-URL: https://github.com/ECE444-2023Fall/project-1-web-application-design-group21-world/blob/events_organizer_api_db/tests/app_test.py#L88-L98
+URL: https://github.com/ECE444-2023Fall/project-1-web-application-design-group21-world/blob/events_organizer_api_db/tests/app_test.py#L91-L101
 
 ## What are the pros and cons of TDD?
 Given below are the pros and cons of TDD.
